@@ -1,4 +1,4 @@
-package br.com.fiap.cryptomonitor
+package br.com.fiap.exerciciocp3
 
 import org.junit.Test
 

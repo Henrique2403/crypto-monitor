@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">cryptomonitor</string>
+    <string name="app_name">exerciciocp3</string>
+    <string name="app_title">Monitor de Crypto Moedas - BITCOIN</string>
+    <string name="label_rate">Cotação - BITCOIN</string>
+    <string name="label_value">R$ 0,00</string>
+    <string name="label_date">dd/mm/yyyy hh:mm:ss</string>
+    <string name="label_refresh">Atualizar</string>
 </resources>

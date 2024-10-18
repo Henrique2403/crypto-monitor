@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "cryptomonitor"
+rootProject.name = "exerciciocp3"
 include(":app")
+ 
